@@ -59,4 +59,6 @@ Coming
 -   Best Practices in ASP.NET Core: Entities, Validation, and View Models
 -   Globalization in C# Applications: Best Practices
 -   Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular
+-   How Git Works
+-   Blazor: Getting Started
 
