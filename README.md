@@ -12,21 +12,24 @@ Progress:
 
 Urgent:
 
--   Unit Testing an ASP.NET Core 6 MVC Web Application
 -   Dependency Injection in ASP.NET Core 6
+-   Unit Testing an ASP.NET Core 6 MVC Web Application
 -   Logging and Monitoring in ASP.NET Core 6
 -   Debugging and Error Handling in ASP.NET Core 6
--   Error Handling in C# 10
 -   ASP.NET Core 6 Web API Fundamentals
+
 -   Working with Files in C# 10
 -   C# 10 Advanced Language Features
 -   Collections and Generics in C# 10
 -   C# 10 Performance Playbook
 -   C# 10 Design Patterns
+-   C# 10 Fundamentals
+-   Error Handling in C# 10
+-   LINQ Fundamentals in C# 10
+
 -   Encapsulating EF Core 6 Usage
 -   Developing for Azure with Visual Studio 2022
 -   Cryptography in .NET 6
--   C# 10 Fundamentals
 -   Working with JSON in .NET 6
 -   Working with XML in .NET 6
 -   Creating .NET 6 Applications Using Cross-platform Tooling
@@ -51,3 +54,9 @@ Coming
 -   WPF 6 Fundamentals
 -   Modern Web Layout with Flexbox and CSS Grid
 -   Using React Hooks
+-   Building a Consistent RESTful API with OData V4 in ASP.NET Core
+-   FluentValidation Fundamentals
+-   Best Practices in ASP.NET Core: Entities, Validation, and View Models
+-   Globalization in C# Applications: Best Practices
+-   Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular
+
