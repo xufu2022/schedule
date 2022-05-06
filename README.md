@@ -37,6 +37,8 @@ Urgent:
 -   RxJS in Angular: Reactive Development
 -   Querying Data in EF Core 6
 
+-   Using React Hooks
+-   Building React Apps with TypeScript
 
 Coming
 -   MLOps (Machine Learning Operations) Fundamentals
@@ -53,7 +55,6 @@ Coming
 -   React 18: First Look
 -   WPF 6 Fundamentals
 -   Modern Web Layout with Flexbox and CSS Grid
--   Using React Hooks
 -   Building a Consistent RESTful API with OData V4 in ASP.NET Core
 -   FluentValidation Fundamentals
 -   Best Practices in ASP.NET Core: Entities, Validation, and View Models
@@ -61,4 +62,8 @@ Coming
 -   Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular
 -   How Git Works
 -   Blazor: Getting Started
+-   React: Getting Started
+-   Building Applications with React and Redux
+-   Designing React Components
+
 
