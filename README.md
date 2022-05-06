@@ -3,10 +3,10 @@
 Progress:
 
 -   Building an End-to-end SPA Using ASP.NET Core 6 Web API and React
--   EF Core 6 Fundamentals
+-   EF Core 6 Fundamentals (done)
 -   C# 10 Dependency Injection
 -   Unit Testing an ASP.NET Core 6 Web API
--   ASP.NET Core 6 Razor Pages Fundamentals
+-   ASP.NET Core 6 Razor Pages Fundamentals (done)
 -   Globalization and Internationalization in ASP.NET Core 6
 -   Using gRPC in ASP.NET Core 6
 
