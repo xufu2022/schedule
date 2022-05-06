@@ -8,7 +8,7 @@ Progress:
 -   Unit Testing an ASP.NET Core 6 Web API
 -   ASP.NET Core 6 Razor Pages Fundamentals (done)
 -   Globalization and Internationalization in ASP.NET Core 6
--   Using gRPC in ASP.NET Core 6
+-   Using gRPC in ASP.NET Core 6 (done)
 
 Urgent:
 
